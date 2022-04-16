@@ -1,0 +1,10 @@
+.textoverwrite{
+    color:rgb(0, 217, 255);
+    font-weight: 700;
+    font-family: sans-serif
+}
+.image{
+    border: solid 5px;
+    border-color:black;
+
+}
